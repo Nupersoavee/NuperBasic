@@ -11,3 +11,9 @@ Done
 
 Comment me by my youtube.https://www.youtube.com/@NuperUnion/community
 
+# PASSWORD AND USERNAME
+
+Username: nuper
+Password: nuperiscool
+
+/sorry for not telling this eariler./
