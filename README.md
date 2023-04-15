@@ -1,6 +1,10 @@
 # Nuper Basic!
 A "basic" program by using VB.
 
+# DISCLAMER!
+this is a discontinued project.
+
+
 # How to open the program
 Make sure you using windows now other programs. 
 Extract the file and open it
